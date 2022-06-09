@@ -1,0 +1,14 @@
+﻿
+table {
+    width: 75%;
+}
+
+th, td {
+    border: 1px solid;
+    text-align: center;
+    height: 50px;
+}
+
+.students {
+    padding: 15px;
+}
